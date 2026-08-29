@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.introText {
+  width: 60%;
+  margin: 50px auto;
+  padding: 50px;
+  overflow: hidden;
+  background: lavender;
+  box-shadow: 2px 2px 5px black;
+  border-radius: 10px 20px 30px 40px / 16px 17px 18px 19px;
+}
+.titleH1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: cursive;
+  margin-bottom: 50px;
+}
+.listContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 50px;
+}
+.listCard {
+  width: 24%;
+  height: 400px;
+  overflow: hidden;
+  display: flex;
+  box-shadow: 7px 7px 10px dodgerblue;
+}
+.listPhoto {
+  width: 100%;
+  height: 90%;
+}
+.listPhoto img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.listName {
+  width: 100%;
+  height: auto;
+}
+.apkCard {
+  width: 27%;
+  height: 400px;
+  float: left;
+  overflow: hidden;
+  text-align: center;
+  box-shadow: 7px 7px 10px black;
+}
+.apkCard img {
+  width: 100%;
+  height: 85%;
+  object-fit: contain;
+}
+.apkCard h3 {
+  width: 100%;
+  height: auto;
+}
