@@ -5,6 +5,8 @@ const Home = () =>{
   
     return(
         <>
+           <i> This is first GitHub changes </i>
+          <br/><br/>
        <div className="introText">
        We are giving the services to the churches and other religious community in Myanmar.
     We created the websites and web based mobile applications in the church. We value the customers desire and available for the complains at any time. So please contact us to work together.
@@ -23,9 +25,9 @@ const Home = () =>{
            ))
        }</div>
 
-<Application /><br/><br/>
+<Application />
 
-          <i> I am in GitHub </i>
+         
         </>
     )
 }
