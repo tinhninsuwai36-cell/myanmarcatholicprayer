@@ -24,6 +24,8 @@ const Home = () =>{
        }</div>
 
 <Application />
+
+          <i> I am in GitHub </i>
         </>
     )
 }
