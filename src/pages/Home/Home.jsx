@@ -5,7 +5,7 @@ const Home = () =>{
   
     return(
         <>
-           <i> This is first GitHub changes </i>
+           <i> This is first GitHub changes. Run now!</i>
           <br/><br/>
        <div className="introText">
        We are giving the services to the churches and other religious community in Myanmar.
