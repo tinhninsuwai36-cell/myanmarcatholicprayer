@@ -27,11 +27,12 @@ const Home = () =>{
 
 <Application />
 
+        
          <div className="dform">  
-    <div className="dtitle">Enter your Suggestion</div>
+    <h1 className="titleH1">Enter your Suggestion</h1>
     <form className="suggestionform" action="suggestioninsert.php" method="post">
     <div>
-        <textarea name="suggestion" rows="30"></textarea></div>
+        <textarea name="suggestion" cols="80" rows="30"></textarea></div>
     <input type="submit" value="Add Suggestion"/>
     </form>
   <div className="dfacebookicon">  
