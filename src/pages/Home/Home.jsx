@@ -5,9 +5,8 @@ const Home = () =>{
   
     return(
         <>
-           <i> Hello world </i>
-          <br/><br/>
-       <div className="introText">
+          
+          <div className="introText">
        We are giving the services to the churches and other religious community in Myanmar.
     We created the websites and web based mobile applications in the church. We value the customers desire and available for the complains at any time. So please contact us to work together.
        </div>
@@ -27,7 +26,18 @@ const Home = () =>{
 
 <Application />
 
-         
+         <div class="dform">  
+    <div class="dtitle">Enter your Suggestion</div>
+    <form class="suggestionform" action="suggestioninsert.php" method="post">
+    <div>
+        <textarea name="suggestion" rows="30em"></textarea></div>
+    <input type="submit" value="Add Suggestion"/>
+    </form>
+  <div class="dfacebookicon">  
+    <a href="#" target="_blank">
+    <img src="images/fbicon.png" /></a></div>
+</div><!-- end of dform -->
+          
         </>
     )
 }
