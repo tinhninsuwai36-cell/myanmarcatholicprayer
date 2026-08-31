@@ -97,3 +97,57 @@ input[type="submit"]{
   border-radius:50%;
 }
 
+@media screen and (max-width: 650px) {
+  .introText {
+    width: 100%;
+  }
+  .listCard {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .listPhoto {
+    width: 100%;
+    height: auto;
+  }
+  .listPhoto img {
+    width: 100%;
+    height: auto;
+  }
+  .listName {
+    width: 100%;
+    height: auto;
+  }
+  .apkCard {
+    width: 100%;
+    height: auto;
+    margin-bottom: 50px;
+  }
+  .apkCard img {
+    width: 100%;
+    height: auto;
+  }
+  .apkCard h3 {
+    width: 100%;
+  }
+  .dform {
+    width: 100%;
+  }
+  .suggestionform {
+    width: 100%;
+  }
+  input[type="submit"] {
+    width: 100%;
+  }
+
+  .dfacebookicon {
+    width: 20%;
+  }
+  .dfacebookicon img {
+    width: 100%;
+  }
+}
+
