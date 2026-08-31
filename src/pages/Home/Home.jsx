@@ -36,7 +36,7 @@ const Home = () =>{
   <div class="dfacebookicon">  
     <a href="#" target="_blank">
     <img src="images/fbicon.png" /></a></div>
-</div><!-- end of dform -->
+</div>
           
         </>
     )
