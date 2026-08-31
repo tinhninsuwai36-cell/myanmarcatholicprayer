@@ -64,3 +64,36 @@
   width: 100%;
   height: auto;
 }
+
+.dform{
+  width:100%; 
+  height:auto; 
+  float:left;
+      }
+.suggestionform{
+  width:70%; 
+  height:auto; 
+  float:left; 
+  padding:1%;
+}
+input[type="submit"]{
+  width:100%; 
+  height:auto; 
+  float:left; 
+ padding:2%; 
+  background: black; 
+  color:white;
+}
+
+.dfacebookicon{
+  width:20%; 
+  height:auto; 
+  float:left; 
+  padding:5%;
+}
+.dfacebookicon img{ 
+  width:100%; 
+  height:auto; 
+  border-radius:50%;
+}
+
