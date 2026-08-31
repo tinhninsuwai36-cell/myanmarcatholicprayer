@@ -64,12 +64,12 @@
   width: 100%;
   height: auto;
 }
-
-.dform{
-  width:100%; 
-  height:auto; 
-  float:left;
-      }
+.dform {
+  width: 100%;
+  height: auto;
+  margin-top: 50px;
+  float: left;
+}
 .suggestionform{
   width:70%; 
   height:auto; 
