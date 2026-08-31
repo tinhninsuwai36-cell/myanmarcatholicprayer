@@ -1,7 +1,7 @@
 const PrayerBooks = () =>{
     return(
         <div className="dprayerBooks">
-             of good things from God (CCC 2559). Prayer also is the acting out of the virtue of religion which consists in asking proper gifts or graces from God. Prayer comes from the heart. It goes beyond our minds and takes place in the deepest recesses of our souls. It’s something that changes us from within because it’s an encounter with the living God living within us. It involves a complete surrender of our entire self to God. Prayer is the cornerstone of the Christian life, the secret of every triumph of every saint and the one practice that can be universally advised at all times and in every occasion. St. Paul tells us in 1Thessalonians 5:17: “Pray without Ceasing!”
+            Prayer is the raising of one’s mind and heart to God or the requesting of good things from God (CCC 2559). Prayer also is the acting out of the virtue of religion which consists in asking proper gifts or graces from God. Prayer comes from the heart. It goes beyond our minds and takes place in the deepest recesses of our souls. It’s something that changes us from within because it’s an encounter with the living God living within us. It involves a complete surrender of our entire self to God. Prayer is the cornerstone of the Christian life, the secret of every triumph of every saint and the one practice that can be universally advised at all times and in every occasion. St. Paul tells us in 1Thessalonians 5:17: “Pray without Ceasing!”
 <br/><br/>
 Vision:
 “If you have no time to pray, you have no time to be a Christian!”
